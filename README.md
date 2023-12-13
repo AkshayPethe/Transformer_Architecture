@@ -1,5 +1,5 @@
 # Transformer Architecture for Natural Language Processing
-
+![MasterHead](https://assets-global.website-files.com/6305e5d52c28356b4fe71bac/63f8df8c87f95232f94ad05c_Holistic-AI-Figure-2.gif)
 ## Overview
 
 This repository contains an implementation of the Transformer architecture, a powerful model for natural language processing (NLP) tasks. The Transformer model was introduced in the paper "Attention is All You Need" by Vaswani et al. This implementation provides a modular and flexible framework for building and training Transformer-based models for various NLP tasks.
